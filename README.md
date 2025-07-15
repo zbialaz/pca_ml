@@ -82,9 +82,4 @@ X_pca = pca.fit_transform(X)
 - **3D vs 2D Visualization**: Comparison between dimensionalities
 - **Scikit-learn**: Using the library for machine learning
 
-## 📧 Contact
-
-- **GitHub**: [@zbialaz](https://github.com/zbialaz)
-- **Project**: [pca_machine_learning](https://github.com/zbialaz/pca_machine_learning)
-
 ---
