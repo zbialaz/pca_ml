@@ -1,4 +1,4 @@
-# PCA Machine Learning - Principal Component Analysis
+# PCA - Principal Component Analysis
 
 This project demonstrates the application of **PCA (Principal Component Analysis)** for dimensionality reduction on synthetic data, visualizing the transformation from 3D to 2D data.
 
